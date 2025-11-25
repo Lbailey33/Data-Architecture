@@ -1,4 +1,4 @@
-Lets create a readme that will go in git hub with this
+
 
 Product Funnel Analysis for SaaS FinTech
 Executive Summary:
